@@ -25,5 +25,6 @@
     ],
     "workbench.iconTheme": "material-icon-theme",
     "mypy.enabled": false,
-    "ruff.enable": false
+    "ruff.enable": false,
+    "python-envs.defaultEnvManager": "ms-python.python:venv"
 }
